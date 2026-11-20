@@ -1,0 +1,17 @@
+# KiCad local history (its own git repo, managed by KiCad)
+.history/
+
+# KiCad per-user and temporary files
+*.kicad_prl
+*.lck
+~*.lck
+fp-info-cache
+*-backups/
+_autosave-*
+*.bak
+
+# Generated outputs (regenerate with kicad-cli / tools/costed_bom.py)
+build/
+
+# Python
+__pycache__/
