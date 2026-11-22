@@ -7,11 +7,10 @@ Designed in KiCad 10.
 
 ## Circuit
 
-```
-+3V (CR2032) ── R1 220 Ω ── SW1 (push to light) ── D1 red LED ── GND
-```
+<img src="docs/schematic.png" alt="Schematic: BT1 3 V cell, R1 220 Ω, SW1 pushbutton and D1 red LED in series" width="560">
 
-With a 3 V cell and a red LED dropping about 2 V, R1 limits the current to roughly 4–5 mA.
+Pressing SW1 completes the loop from the cell through R1 and D1. With a 3 V cell and a red LED
+dropping about 2 V, R1 limits the current to roughly 4–5 mA.
 
 ## Board
 

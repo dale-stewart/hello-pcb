@@ -1525,7 +1525,7 @@
 		(dnp no)
 		(uuid "03ed9947-775b-4afd-8fdf-0415c04d03ef")
 		(property "Reference" "SW1"
-			(at 137.16 55.88 0)
+			(at 135.89 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
