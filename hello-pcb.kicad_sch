@@ -8,7 +8,6 @@
 		(title "Hello PCB")
 		(date "2026-11-17")
 		(rev "Rev A")
-		(company "Leverology")
 	)
 	(lib_symbols
 		(symbol "Mechanical:MountingHole"
