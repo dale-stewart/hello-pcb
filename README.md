@@ -73,3 +73,11 @@ the board, press **B** in the PCB editor before saving.
 | `hello-pcb.kicad_pcb` | Board layout |
 | `tools/costed_bom.py` | BOM export and live pricing script |
 | `docs/` | Board renders for this README |
+| `LICENSE` | CERN-OHL-P-2.0 licence text |
+
+## License
+
+This design is licensed under the
+[CERN Open Hardware Licence Version 2 – Permissive](https://ohwr.org/cern_ohl_p_v2.txt)
+(SPDX: `CERN-OHL-P-2.0`). You may use, modify, share and make boards from it, including
+commercially. The full text is in [LICENSE](LICENSE).
