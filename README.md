@@ -18,7 +18,7 @@ dropping about 2 V, R1 limits the current to roughly 4–5 mA.
 
 | | |
 |---|---|
-| Size | 34.0 × 34.5 mm, 4 mm corner radius |
+| Size | 34.0 × 32.4 mm, 4 mm corner radius |
 | Layers | 2: tracks on top, GND fill on both sides, joined by 4 stitching vias |
 | Mounting | 4 × M2 holes (2.2 mm, non-plated), 3 mm in from each corner (H1–H4) |
 | Parts | All through-hole except the battery holder (surface mount) |
